@@ -32,4 +32,4 @@ I encapsulate the environment as the class 'Blackjack', and one can use model = 
 * **plot_avg_reward**(): Plot the average return after training n*1000 steps.
 
 ### Results and Plots
-![](/Users/zhangyumeng/Desktop/Figure_1.png)
+![readme_pic](./Figure_1.png)
